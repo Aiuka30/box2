@@ -24,4 +24,4 @@ contract WavePortal {
     constructor() {
         console.log("Ueba, eu sou um contrato e eu sou inteligente");
     }
-}
+} 
